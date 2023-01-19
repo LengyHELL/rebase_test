@@ -1,4 +1,6 @@
 test3
 
 changing test file 3asdasd
-Hello this is a change in test3 and may create a conflict
+
+
+hello szia szeasz
