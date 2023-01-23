@@ -3,4 +3,4 @@ test3
 changing test file 3asdasd
 
 
-hello szia szeasz
+hello szia szeasz main
