@@ -4,3 +4,4 @@ change in test fileasdfasdf
 
 
 asdfadsfasdf main
+conflict initiator
