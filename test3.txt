@@ -3,8 +3,9 @@ test3
 changing test file 3asdasd
 
 
-hello szia szeasz main main main main
+hello szia szeasz main main main main main main
 change
 hello szia feature done kesz
 new change 3
 conflict here as well
+ss
